@@ -30,6 +30,10 @@ pip install aiogram aioimaplib apscheduler beautifulsoup4
 ```python
 API_TOKEN = 'ВАШ_ТОКЕН_ЗДЕСЬ'
 ```
+Откройте файл `.env` и вставьте ваш токен, полученный от [@BotFather](https://t.me/BotFather):
+```python
+API_TOKEN = 'ВАШ_ТОКЕН_ЗДЕСЬ'
+```
 
 ### 3. Запуск
 ```bash
